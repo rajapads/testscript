@@ -2,4 +2,3 @@
 print " tets " 
 print " good night"
 print "Do you want to add or delete SSH keys [Add/Delete]: "
-name = gets.chomp
