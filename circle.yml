@@ -9,4 +9,4 @@ machine:
       
 test:
   override:
-    - ruby test_script.rb
+    - ruby ./test_script.rb
